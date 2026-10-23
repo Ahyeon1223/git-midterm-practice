@@ -1,2 +1,2 @@
-MODE=testing
-TIMEOUT=20
+MODE=production
+TIMEOUT=60
