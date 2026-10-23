@@ -1,2 +1,2 @@
-MODE=development
+MODE=production
 TIMEOUT=30
