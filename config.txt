@@ -1,0 +1,2 @@
+MODE=testing
+TIMEOUT=20
